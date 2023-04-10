@@ -1,0 +1,6 @@
+PUT /user/_doc/1
+{
+  "name": "abc"
+}
+
+GET /user/_doc/1
